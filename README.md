@@ -9,5 +9,7 @@ For example; <br />
 Now if we apply left or right shift to these numbers then shifting left or right as a whole.
 
 ### Left Shift
-ashfcnkljcevw
+Using '<<' character for the left shift and then we can say that its syntax  'value << number'  like this. <br />
+We have a binary number 0001 0001 (decimal 17) and aplly left shift one time (00010001 << 1);
+<pre>0001 0001 << 1 -> 0010 0010</pre>
 
